@@ -19,3 +19,5 @@ __Quiz Created for participating to neogcamp__
     * Question asked in the quiz were stored in an array data structure
 
 
+
+	> quote added
