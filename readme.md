@@ -16,6 +16,6 @@ __Quiz Created for participating to neogcamp__
 1. Object
     * Object used to hold all the question asked to the used
 1. Array 
-    * Question asked were stored in an array data structure
+    * Question asked in the quiz were stored in an array data structure
 
 
