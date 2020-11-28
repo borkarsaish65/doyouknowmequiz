@@ -18,6 +18,15 @@ __Quiz Created for participating to neogcamp__
 1. Array 
     * Question asked in the quiz were stored in an array data structure
 
+
+<br/>
+</br>
+
+## How to access the quiz
+
+1. Access the quiz by going here <https://repl.it/@SaishBorkar/doyouknowme?embed=1&ouput=1>
+
+
 <br/>
 <br/>
 <br/>
